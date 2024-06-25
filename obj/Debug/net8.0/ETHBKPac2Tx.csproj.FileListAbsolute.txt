@@ -1,0 +1,15 @@
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.GeneratedMSBuildEditorConfig.editorconfig
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.AssemblyInfoInputs.cache
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.AssemblyInfo.cs
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.csproj.CoreCompileInputs.cache
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.sourcelink.json
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\bin\Debug\net8.0\ETHBKPac2Tx.exe
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\bin\Debug\net8.0\ETHBKPac2Tx.deps.json
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\bin\Debug\net8.0\ETHBKPac2Tx.runtimeconfig.json
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\bin\Debug\net8.0\ETHBKPac2Tx.dll
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\bin\Debug\net8.0\ETHBKPac2Tx.pdb
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.dll
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\refint\ETHBKPac2Tx.dll
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.pdb
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ETHBKPac2Tx.genruntimeconfig.cache
+D:\IL ETH BK DI8 DO4 2TX-PAC\ETHBKPac2Tx\obj\Debug\net8.0\ref\ETHBKPac2Tx.dll

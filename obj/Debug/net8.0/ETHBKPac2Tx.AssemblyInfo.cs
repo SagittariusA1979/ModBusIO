@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETHBKPac2Tx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25cd37b2247e91c5732fd7c4f76e4329f40dde03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETHBKPac2Tx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETHBKPac2Tx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
